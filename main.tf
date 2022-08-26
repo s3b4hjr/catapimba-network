@@ -16,6 +16,6 @@ module "vpc" {
     Terraform   = "true"
     Environment = "dev"
     Name = "catapimba-corps-vpc"
-    CC = "12345"
+    CC = "123456"
   }
 }
